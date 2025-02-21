@@ -1,4 +1,19 @@
-## This App is a complete interactive shapes application with the following features:
+# Interactive shapes application for the coding workshop at SoundCloud Girls Day 2025
+
+## How to run the app
+
+To run the app, you need to have Node.js installed on your machine. You can download it from the official website: https://nodejs.org/en/download/ .
+It comes with npm, the Node.js package manager, which you'll use to install the project dependencies and run the development server.
+
+After you've installed Node.js, you can clone the repository and run the following commands in the project directory:
+
+`npm install`
+
+`npm run dev`
+
+Once it's done, you can open your browser and navigate to the provided localhost link to see the app running.
+
+## Overview of the features and components 
 
 A configurable **Container** component that can have:
 
@@ -48,3 +63,4 @@ Each **shape** has configurable:
 Each shape plays a different musical note when clicked and has a random animation from the predefined set. The shapes are also interactive with hover effects and smooth transitions.
 
 The development server should now be running, and you'll see the interactive shapes demo with various shapes arranged on the screen. Click on any shape to hear its unique sound and see a random animation!
+
