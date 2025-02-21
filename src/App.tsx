@@ -4,6 +4,10 @@ import Shape from './components/Shape';
 import Image from './components/Image';
 
 function App() {
+    // THIS IS WHERE ALL THE MAGIC HAPPENS!
+    // Try adding different components and props to create your own masterpiece.
+    // You can start with modifying the existing components below. Try tweaking the position, size or the color. See what happens.
+    // If you not sure which values can be provided to a certain prop, check the component file in the src/components folder. Or just click command and click on the component name .
   return (
     <Container backgroundColor="bg-gradient-to-br from-purple-100 to-pink-100">
       <Text
